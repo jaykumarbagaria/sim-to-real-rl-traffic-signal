@@ -92,3 +92,51 @@ Two agents were trained:
 ---
 
 ## 📁 Project Structure
+models/ → trained RL agents
+figures/ → plots used in analysis
+results/ → evaluation outputs
+notebook/ → full pipeline
+
+
+
+---
+
+## 🛠️ Tech Stack
+
+- Python  
+- PyTorch (DQN)  
+- SUMO (traffic simulation)  
+- TraCI API  
+- NumPy, Pandas, Matplotlib  
+
+---
+
+## 🚀 Contribution
+
+This work demonstrates that:
+
+> Training RL models in simplified environments leads to poor real-world generalization.
+
+It highlights the need for:
+- realistic simulation environments  
+- data-driven calibration  
+- sim-to-real robustness in transportation AI  
+
+---
+
+## 👤 Author
+
+**Jay Kumar Bagaria**  
+MSc Infrastructure Engineering  
+Transportation Systems  
+
+---
+
+## 📌 Future Work
+
+- Multi-intersection control  
+- Transfer learning / domain adaptation  
+- Robust RL under uncertainty  
+- Real-world deployment  
+
+---
